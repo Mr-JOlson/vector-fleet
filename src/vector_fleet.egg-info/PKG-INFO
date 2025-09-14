@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: vector-fleet
+Version: 0.1.0
+Summary: CLI helper for Vector Fleet classroom game (vector addition + projectile motion).
+Author: Jason Olson
+License: MIT
+Requires-Python: >=3.10
+License-File: LICENSE
+Dynamic: license-file

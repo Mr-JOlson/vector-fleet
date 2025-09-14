@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/vector_fleet_solver.py
+src/vector_fleet.egg-info/PKG-INFO
+src/vector_fleet.egg-info/SOURCES.txt
+src/vector_fleet.egg-info/dependency_links.txt
+src/vector_fleet.egg-info/top_level.txt
