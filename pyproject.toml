@@ -1,0 +1,13 @@
+[project]
+name = "vector-fleet"
+version = "0.1.0"
+description = "CLI helper for Vector Fleet classroom game (vector addition + projectile motion)."
+requires-python = ">=3.10"
+authors = [
+  { name = "Jason Olson" }
+]
+license = { text = "MIT" }
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

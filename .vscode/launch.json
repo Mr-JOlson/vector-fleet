@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Run Vector Fleet Solver",
+        "type": "python",
+        "request": "launch",
+        "program": "${workspaceFolder}/src/vector_fleet_solver.py",
+        "console": "integratedTerminal",
+        "justMyCode": true
+      }
+    ]
+  }

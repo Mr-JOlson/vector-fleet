@@ -1,0 +1,3 @@
+# Vector Fleet has no external dependencies.
+# This file is included for consistency in classroom setup.
+# Students can run `pip install -r requirements.txt` safely.
